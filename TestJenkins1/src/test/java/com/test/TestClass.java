@@ -8,6 +8,7 @@ public class TestClass {
 	public void testCase1() {
 
 		System.out.println("This is test case 1");
+		System.out.println("This is new comment");
 	}
 	@Test
 	public void testCase2() {
