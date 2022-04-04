@@ -14,6 +14,7 @@ public class TestClass {
 	public void testCase2() {
 
 		System.out.println("This is test case 2");
+		System.out.println("This is new comment");
 	}
 	@Test
 	public void testCase3() {
